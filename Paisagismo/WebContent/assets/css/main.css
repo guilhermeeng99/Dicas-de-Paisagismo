@@ -70,28 +70,41 @@ a:hover, a:focus {
 }
 
 /* +++++ Auxiliares +++++ */
-.mt {
-	padding-top: 10px;
+.cab-direita {
+	padding-top: 5px;
 	padding-bottom: 5px;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.parag-p {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.img-tipo {
+	border: 5px solid;
+	color: white;
 }
 
 .pt {
 	padding-left: 290px;
 }
+
 .pp {
-	padding-left: 20px;
+	padding-left: 10px;
 }
 
 #ww {
-	padding-top: 70px;
-	padding-bottom: 70px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	background-color: #76b852;
 }
 
 #footer {
 	background-color: #5A3F37;
-	padding-top: 40px;
-	padding-bottom: 20px;
+	padding-top: 10px;
+	padding-bottom: 0px;
 }
 
 #footer p {
